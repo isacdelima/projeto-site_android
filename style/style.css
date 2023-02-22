@@ -190,6 +190,7 @@ footer {
     font-size: 0.9em;
     margin: 0px;
     padding: 5px;
+    background-attachment: fixed;
 }
 
 footer a {
