@@ -99,7 +99,15 @@ main  h1 {
 
 main h1.principal{
     font-weight: bolder;
-    font-family: var(--fonte-destaque);
+    font-family: var(--fonte-padrão);
+    font-size: 2.2em;
+    padding: 10px;
+    margin-left: -23px;
+    margin-right: -23px;
+    margin-bottom: 50px;
+    text-align: center;
+    background-image: linear-gradient(to right, var(--cor1), transparent);
+    color: var(--cor3);
 
 }
 main h2 {
