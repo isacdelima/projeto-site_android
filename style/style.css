@@ -97,6 +97,11 @@ main  h1 {
 
 }
 
+main h1.principal{
+    font-weight: bolder;
+    font-family: var(--fonte-destaque);
+
+}
 main h2 {
     font-weight: normal;
     color: var(--cor4);
